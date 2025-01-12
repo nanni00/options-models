@@ -4,5 +4,4 @@ Master thesis project of Alberto Orldandini, Università Cattolica del Sacro Cuo
 
 Partial credits for the code to [nanni00](https://github.com/nanni00/).
 
-
-
+The Python version used for the code is 3.12
