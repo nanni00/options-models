@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+ivolatility
+scipy
+nelson_siegel_svensson
