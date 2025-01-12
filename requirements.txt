@@ -2,5 +2,5 @@ numpy
 pandas
 matplotlib
 ivolatility
-scipy
+scipy==1.15.1
 nelson_siegel_svensson
